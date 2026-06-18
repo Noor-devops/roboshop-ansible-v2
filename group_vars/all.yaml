@@ -1,0 +1,11 @@
+ansible_user: ec2-user
+ansible_password: DevOps321
+MONGODB_HOST: mongodb.nirfaws.online
+REDIS_HOST: redis.nirfaws.online
+MYSQL_HOST: mysql.nirfaws.online
+RABBITMQ_HOST: rabbitmq.nirfaws.online
+CATALOGUE_HOST: catalogue.nirfaws.online
+USER_HOST: user.nirfaws.online
+CART_HOST: cart.nirfaws.online
+SHIPPING_HOST: shipping.nirfaws.online
+PAYMENT_HOST: payment.nirfaws.online
